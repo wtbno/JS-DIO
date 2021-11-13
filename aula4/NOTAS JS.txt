@@ -1,0 +1,8 @@
+Notas sobre JS
+
+
+Externar JS
+Carregar JS ao final do body
+O JS faz auto-conversão dos dados (Números, textos)
+
+Let: permite alterar a var depois da sua criação
