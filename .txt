@@ -1,0 +1,3 @@
+Dom =  Document object model em árvore
+
+Elemento JS que pode alterar os elementos em HTML e atributos de CSS
