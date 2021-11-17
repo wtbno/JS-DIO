@@ -2,6 +2,21 @@
 function calculadora() {
     const operacao = Number(prompt("Escolha uma operação:\n 1 - Soma (+) \n 2 - Subtração (-) \n 3 - Multiplicação (*)  \n 4 - Divisão real (/) \n 5 - Divisão inteira (%)\n 6 - Potenciação (**) "))
 
+    const  Main = () => {
+        return (
+            <main>
+                <div>
+                    
+                </div>
+            </main>
+        )
+    }
+
+    function result() {
+        
+        document.getElementById("result").innerHTML + <b>O resultado é:</b>
+        
+    }
     //Verificar se a op é válida    
     if (!operacao || operacao >= 7) {
         alert("Erro, operação inválida!");

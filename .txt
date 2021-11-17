@@ -1,3 +1,14 @@
 Dom =  Document object model em árvore
 
 Elemento JS que pode alterar os elementos em HTML e atributos de CSS
+
+JS possui tipagem dinâmica, que identifica automaticamente o tipo de elemento passado
+
+
+
+Var, const e let
+
+Var, antes era utilizado para declarar somente o var para declarar todas as variáveis no código, o que 
+posteriormente mudou em 2015 com a atualização de ES2015 para ES6. Com isso foi introduzido o let e o const
+
+Um variável declarada com let leva em conta, não a função onde foi criada, mas sim o bloco de código de sua origem. Isso significa que se a declararmos dentro de um if(), switch() ou for(), ela será “enxergada” apenas dentro desta parte do código, dentro deste escopo específico.
